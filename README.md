@@ -3,7 +3,7 @@
 ## Must be installed
 
 1. [NodeJS](https://nodejs.org/en/download/)
-2. [ASPNet Core Wev API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
+2. [ASPNet Core Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
 3. npm package (must be included in NodeJS)
 
 ## Available Scripts

@@ -1,3 +1,33 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+@font-face {
+    font-family: 'HelveticaNeueExtended';
+    src: url("../static/fonts/Helvetica-Neue-Font/Helvetica Neue Medium Extended/Helvetica Neue Medium Extended.ttf");
+}
+
+@font-face {
+    font-family: 'HelveticaNeueRoman';
+    src: url("../static/fonts/Nike Font/HelveticaNeueRoman.otf");
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLight';
+    src: url("../static/fonts/HelveticaNeue Thin.ttf");
+}
+
+@font-face {
+    font-family: 'HelveticaNeueNormal';
+    src: url("../static/fonts/HelveticaNeueMed.ttf");
+}
+
+@font-face {
+    font-family: 'HelveticaNeueMedium';
+    src: url("../static/fonts/HelveticaNeueHv.ttf");
+}
+
+@font-face {
+    font-family: 'HelveticaNeueLarge';
+    src: url("../static/fonts/Helvetica-Neue-Font/Helvetica NeueLTW0693BlkExtObl/Helvetica NeueLTW0693BlkExtObl.ttf");
+}
